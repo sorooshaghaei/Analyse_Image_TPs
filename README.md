@@ -16,7 +16,7 @@ pip install -r requirements.txt
 ```
 
 ---
-
+```text
 Image-Analysis-Course/      <-- Root folder
 │
 ├── .gitignore              <-- Important to keep repo clean
@@ -28,22 +28,22 @@ Image-Analysis-Course/      <-- Root folder
 │   ├── TP1.ipynb
 │   ├── practice.ipynb
 │   ├── 1.ipynb
-│   └── img/                <-- Images specific to TP1
+│   └── img/
 │       ├── 92_mini.jpg
 │       └── cameraman.png
 │
-├── TP2/                    <-- Placeholder for sessions 2
+├── TP2/
 │   ├── TP2.ipynb
 │   ├── Compte_Rendu.pdf
 │   ├── practice.ipynb
-│   └── img/                <-- Images specific to TP2
+│   └── img/
 │       ├── 92_mini.jpg
 │       ├── landscape.png
 │       └── cameraman2.png
 │
-├── TP3/                       
+├── TP3/
 │   ├── TP3.ipynb 
-│   └── img/                <-- Images specific to TP2
+│   └── img/
 │       ├── 92_mini.jpg
 │       ├── landscape.png
 │       └── cameraman2.png
