@@ -1,6 +1,3 @@
-```text
 numpy
 matplotlib
 opencv-python
-jupyterlab
-```
