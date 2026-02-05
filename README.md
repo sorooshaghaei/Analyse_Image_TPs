@@ -19,6 +19,7 @@ pip install -r requirements.txt
 ```text
 Image-Analysis-Course/      <-- Root folder
 │
+├── Compte_Rendu.pdf
 ├── .gitignore              <-- Important to keep repo clean
 ├── README.md               <-- Main index for the professor
 ├── LICENSE              
@@ -34,7 +35,6 @@ Image-Analysis-Course/      <-- Root folder
 │
 ├── TP2/
 │   ├── TP2.ipynb
-│   ├── Compte_Rendu.pdf
 │   ├── practice.ipynb
 │   └── img/
 │       ├── 92_mini.jpg
